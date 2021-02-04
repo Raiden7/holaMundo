@@ -11,4 +11,5 @@
 public class hola {
     public String saludo;
     public int uno;
+    public int tres;
 }
